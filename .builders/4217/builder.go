@@ -2,7 +2,6 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
 	"os"
 	"strconv"
@@ -61,7 +60,6 @@ func main() {
 			continue
 		}
 		newCurrency := currency{}
-		fmt.Println(entry)
 		countryName := nodeToString(entry["CtryNm"])
 		currencyNumber := nodeToString(entry["CcyNbr"])
 		newCurrency.CurrencyNumber, _ = strconv.Atoi(currencyNumber)

@@ -8,4 +8,4 @@ build: ../../protobuf/4217/4217.proto
 	mv $@.tmp $@
 
 clean:
-	rm -rf .tmp ../../4217/4217.proto
+	rm -rf .tmp ../../protobuf/4217/4217.proto
