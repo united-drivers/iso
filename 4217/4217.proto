@@ -1,0 +1,1809 @@
+map[CtryNm:AFGHANISTAN CcyNm:Afghani Ccy:AFN CcyNbr:971 CcyMnrUnts:2]
+map[CtryNm:ÅLAND ISLANDS CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CtryNm:ALBANIA CcyNm:Lek Ccy:ALL CcyNbr:008 CcyMnrUnts:2]
+map[CtryNm:ALGERIA CcyNm:Algerian Dinar Ccy:DZD CcyNbr:012 CcyMnrUnts:2]
+map[CcyMnrUnts:2 CtryNm:AMERICAN SAMOA CcyNm:US Dollar Ccy:USD CcyNbr:840]
+map[CtryNm:ANDORRA CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CtryNm:ANGOLA CcyNm:Kwanza Ccy:AOA CcyNbr:973 CcyMnrUnts:2]
+map[CtryNm:ANGUILLA CcyNm:East Caribbean Dollar Ccy:XCD CcyNbr:951 CcyMnrUnts:2]
+map[CcyMnrUnts:2 CtryNm:ANTIGUA AND BARBUDA CcyNm:East Caribbean Dollar Ccy:XCD CcyNbr:951]
+map[CtryNm:ARGENTINA CcyNm:Argentine Peso Ccy:ARS CcyNbr:032 CcyMnrUnts:2]
+map[CtryNm:ARMENIA CcyNm:Armenian Dram Ccy:AMD CcyNbr:051 CcyMnrUnts:2]
+map[CtryNm:ARUBA CcyNm:Aruban Florin Ccy:AWG CcyNbr:533 CcyMnrUnts:2]
+map[CcyNbr:036 CcyMnrUnts:2 CtryNm:AUSTRALIA CcyNm:Australian Dollar Ccy:AUD]
+map[CtryNm:AUSTRIA CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CcyNbr:944 CcyMnrUnts:2 CtryNm:AZERBAIJAN CcyNm:Azerbaijan Manat Ccy:AZN]
+map[CtryNm:BAHAMAS (THE) CcyNm:Bahamian Dollar Ccy:BSD CcyNbr:044 CcyMnrUnts:2]
+map[CcyNbr:048 CcyMnrUnts:3 CtryNm:BAHRAIN CcyNm:Bahraini Dinar Ccy:BHD]
+map[CcyNm:Taka Ccy:BDT CcyNbr:050 CcyMnrUnts:2 CtryNm:BANGLADESH]
+map[Ccy:BBD CcyNbr:052 CcyMnrUnts:2 CtryNm:BARBADOS CcyNm:Barbados Dollar]
+map[CcyNbr:933 CcyMnrUnts:2 CtryNm:BELARUS CcyNm:Belarusian Ruble Ccy:BYN]
+map[CtryNm:BELGIUM CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CcyNbr:084 CcyMnrUnts:2 CtryNm:BELIZE CcyNm:Belize Dollar Ccy:BZD]
+map[CcyNm:CFA Franc BCEAO Ccy:XOF CcyNbr:952 CcyMnrUnts:0 CtryNm:BENIN]
+map[Ccy:BMD CcyNbr:060 CcyMnrUnts:2 CtryNm:BERMUDA CcyNm:Bermudian Dollar]
+map[CcyNbr:356 CcyMnrUnts:2 CtryNm:BHUTAN CcyNm:Indian Rupee Ccy:INR]
+map[CcyNm:Ngultrum Ccy:BTN CcyNbr:064 CcyMnrUnts:2 CtryNm:BHUTAN]
+map[CtryNm:BOLIVIA (PLURINATIONAL STATE OF) CcyNm:Boliviano Ccy:BOB CcyNbr:068 CcyMnrUnts:2]
+map[CtryNm:BOLIVIA (PLURINATIONAL STATE OF) CcyNm:map[IsFund:true $t:Mvdol] Ccy:BOV CcyNbr:984 CcyMnrUnts:2]
+map[Ccy:USD CcyNbr:840 CcyMnrUnts:2 CtryNm:BONAIRE, SINT EUSTATIUS AND SABA CcyNm:US Dollar]
+map[CcyMnrUnts:2 CtryNm:BOSNIA AND HERZEGOVINA CcyNm:Convertible Mark Ccy:BAM CcyNbr:977]
+map[CtryNm:BOTSWANA CcyNm:Pula Ccy:BWP CcyNbr:072 CcyMnrUnts:2]
+map[CtryNm:BOUVET ISLAND CcyNm:Norwegian Krone Ccy:NOK CcyNbr:578 CcyMnrUnts:2]
+map[CcyNbr:986 CcyMnrUnts:2 CtryNm:BRAZIL CcyNm:Brazilian Real Ccy:BRL]
+map[CcyNm:US Dollar Ccy:USD CcyNbr:840 CcyMnrUnts:2 CtryNm:BRITISH INDIAN OCEAN TERRITORY (THE)]
+map[CtryNm:BRUNEI DARUSSALAM CcyNm:Brunei Dollar Ccy:BND CcyNbr:096 CcyMnrUnts:2]
+map[Ccy:BGN CcyNbr:975 CcyMnrUnts:2 CtryNm:BULGARIA CcyNm:Bulgarian Lev]
+map[CcyMnrUnts:0 CtryNm:BURKINA FASO CcyNm:CFA Franc BCEAO Ccy:XOF CcyNbr:952]
+map[CtryNm:BURUNDI CcyNm:Burundi Franc Ccy:BIF CcyNbr:108 CcyMnrUnts:0]
+map[CtryNm:CABO VERDE CcyNm:Cabo Verde Escudo Ccy:CVE CcyNbr:132 CcyMnrUnts:2]
+map[CtryNm:CAMBODIA CcyNm:Riel Ccy:KHR CcyNbr:116 CcyMnrUnts:2]
+map[CtryNm:CAMEROON CcyNm:CFA Franc BEAC Ccy:XAF CcyNbr:950 CcyMnrUnts:0]
+map[CcyMnrUnts:2 CtryNm:CANADA CcyNm:Canadian Dollar Ccy:CAD CcyNbr:124]
+map[CtryNm:CAYMAN ISLANDS (THE) CcyNm:Cayman Islands Dollar Ccy:KYD CcyNbr:136 CcyMnrUnts:2]
+map[CtryNm:CENTRAL AFRICAN REPUBLIC (THE) CcyNm:CFA Franc BEAC Ccy:XAF CcyNbr:950 CcyMnrUnts:0]
+map[CcyNbr:950 CcyMnrUnts:0 CtryNm:CHAD CcyNm:CFA Franc BEAC Ccy:XAF]
+map[CtryNm:CHILE CcyNm:Chilean Peso Ccy:CLP CcyNbr:152 CcyMnrUnts:0]
+map[CcyMnrUnts:4 CtryNm:CHILE CcyNm:map[IsFund:true $t:Unidad de Fomento] Ccy:CLF CcyNbr:990]
+map[CtryNm:CHINA CcyNm:Yuan Renminbi Ccy:CNY CcyNbr:156 CcyMnrUnts:2]
+map[CtryNm:CHRISTMAS ISLAND CcyNm:Australian Dollar Ccy:AUD CcyNbr:036 CcyMnrUnts:2]
+map[CtryNm:COCOS (KEELING) ISLANDS (THE) CcyNm:Australian Dollar Ccy:AUD CcyNbr:036 CcyMnrUnts:2]
+map[CtryNm:COLOMBIA CcyNm:Colombian Peso Ccy:COP CcyNbr:170 CcyMnrUnts:2]
+map[CtryNm:COLOMBIA CcyNm:map[IsFund:true $t:Unidad de Valor Real] Ccy:COU CcyNbr:970 CcyMnrUnts:2]
+map[CtryNm:COMOROS (THE) CcyNm:Comorian Franc Ccy:KMF CcyNbr:174 CcyMnrUnts:0]
+map[CtryNm:CONGO (THE DEMOCRATIC REPUBLIC OF THE) CcyNm:Congolese Franc Ccy:CDF CcyNbr:976 CcyMnrUnts:2]
+map[CcyNm:CFA Franc BEAC Ccy:XAF CcyNbr:950 CcyMnrUnts:0 CtryNm:CONGO (THE)]
+map[Ccy:NZD CcyNbr:554 CcyMnrUnts:2 CtryNm:COOK ISLANDS (THE) CcyNm:New Zealand Dollar]
+map[CcyNbr:188 CcyMnrUnts:2 CtryNm:COSTA RICA CcyNm:Costa Rican Colon Ccy:CRC]
+map[CtryNm:CÔTE D'IVOIRE CcyNm:CFA Franc BCEAO Ccy:XOF CcyNbr:952 CcyMnrUnts:0]
+map[CcyNbr:191 CcyMnrUnts:2 CtryNm:CROATIA CcyNm:Kuna Ccy:HRK]
+map[CtryNm:CUBA CcyNm:Cuban Peso Ccy:CUP CcyNbr:192 CcyMnrUnts:2]
+map[CcyMnrUnts:2 CtryNm:CUBA CcyNm:Peso Convertible Ccy:CUC CcyNbr:931]
+map[CtryNm:CURAÇAO CcyNm:Netherlands Antillean Guilder Ccy:ANG CcyNbr:532 CcyMnrUnts:2]
+map[CtryNm:CYPRUS CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CtryNm:CZECHIA CcyNm:Czech Koruna Ccy:CZK CcyNbr:203 CcyMnrUnts:2]
+map[CtryNm:DENMARK CcyNm:Danish Krone Ccy:DKK CcyNbr:208 CcyMnrUnts:2]
+map[CcyNbr:262 CcyMnrUnts:0 CtryNm:DJIBOUTI CcyNm:Djibouti Franc Ccy:DJF]
+map[CcyNm:East Caribbean Dollar Ccy:XCD CcyNbr:951 CcyMnrUnts:2 CtryNm:DOMINICA]
+map[Ccy:DOP CcyNbr:214 CcyMnrUnts:2 CtryNm:DOMINICAN REPUBLIC (THE) CcyNm:Dominican Peso]
+map[CcyMnrUnts:2 CtryNm:ECUADOR CcyNm:US Dollar Ccy:USD CcyNbr:840]
+map[CtryNm:EGYPT CcyNm:Egyptian Pound Ccy:EGP CcyNbr:818 CcyMnrUnts:2]
+map[CtryNm:EL SALVADOR CcyNm:El Salvador Colon Ccy:SVC CcyNbr:222 CcyMnrUnts:2]
+map[CcyNbr:840 CcyMnrUnts:2 CtryNm:EL SALVADOR CcyNm:US Dollar Ccy:USD]
+map[CcyNm:CFA Franc BEAC Ccy:XAF CcyNbr:950 CcyMnrUnts:0 CtryNm:EQUATORIAL GUINEA]
+map[CtryNm:ERITREA CcyNm:Nakfa Ccy:ERN CcyNbr:232 CcyMnrUnts:2]
+map[Ccy:EUR CcyNbr:978 CcyMnrUnts:2 CtryNm:ESTONIA CcyNm:Euro]
+map[CcyNbr:230 CcyMnrUnts:2 CtryNm:ETHIOPIA CcyNm:Ethiopian Birr Ccy:ETB]
+map[CtryNm:EUROPEAN UNION CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CcyNbr:238 CcyMnrUnts:2 CtryNm:FALKLAND ISLANDS (THE) [MALVINAS] CcyNm:Falkland Islands Pound Ccy:FKP]
+map[CcyNm:Danish Krone Ccy:DKK CcyNbr:208 CcyMnrUnts:2 CtryNm:FAROE ISLANDS (THE)]
+map[Ccy:FJD CcyNbr:242 CcyMnrUnts:2 CtryNm:FIJI CcyNm:Fiji Dollar]
+map[CcyNbr:978 CcyMnrUnts:2 CtryNm:FINLAND CcyNm:Euro Ccy:EUR]
+map[CtryNm:FRANCE CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CcyMnrUnts:2 CtryNm:FRENCH GUIANA CcyNm:Euro Ccy:EUR CcyNbr:978]
+map[CtryNm:FRENCH POLYNESIA CcyNm:CFP Franc Ccy:XPF CcyNbr:953 CcyMnrUnts:0]
+map[CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2 CtryNm:FRENCH SOUTHERN TERRITORIES (THE)]
+map[Ccy:XAF CcyNbr:950 CcyMnrUnts:0 CtryNm:GABON CcyNm:CFA Franc BEAC]
+map[CcyMnrUnts:2 CtryNm:GAMBIA (THE) CcyNm:Dalasi Ccy:GMD CcyNbr:270]
+map[CtryNm:GEORGIA CcyNm:Lari Ccy:GEL CcyNbr:981 CcyMnrUnts:2]
+map[CtryNm:GERMANY CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CtryNm:GHANA CcyNm:Ghana Cedi Ccy:GHS CcyNbr:936 CcyMnrUnts:2]
+map[CtryNm:GIBRALTAR CcyNm:Gibraltar Pound Ccy:GIP CcyNbr:292 CcyMnrUnts:2]
+map[CtryNm:GREECE CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CtryNm:GREENLAND CcyNm:Danish Krone Ccy:DKK CcyNbr:208 CcyMnrUnts:2]
+map[CcyNm:East Caribbean Dollar Ccy:XCD CcyNbr:951 CcyMnrUnts:2 CtryNm:GRENADA]
+map[Ccy:EUR CcyNbr:978 CcyMnrUnts:2 CtryNm:GUADELOUPE CcyNm:Euro]
+map[CcyMnrUnts:2 CtryNm:GUAM CcyNm:US Dollar Ccy:USD CcyNbr:840]
+map[CtryNm:GUATEMALA CcyNm:Quetzal Ccy:GTQ CcyNbr:320 CcyMnrUnts:2]
+map[CtryNm:GUERNSEY CcyNm:Pound Sterling Ccy:GBP CcyNbr:826 CcyMnrUnts:2]
+map[CtryNm:GUINEA CcyNm:Guinean Franc Ccy:GNF CcyNbr:324 CcyMnrUnts:0]
+map[CtryNm:GUINEA-BISSAU CcyNm:CFA Franc BCEAO Ccy:XOF CcyNbr:952 CcyMnrUnts:0]
+map[CtryNm:GUYANA CcyNm:Guyana Dollar Ccy:GYD CcyNbr:328 CcyMnrUnts:2]
+map[CcyMnrUnts:2 CtryNm:HAITI CcyNm:Gourde Ccy:HTG CcyNbr:332]
+map[CtryNm:HAITI CcyNm:US Dollar Ccy:USD CcyNbr:840 CcyMnrUnts:2]
+map[CtryNm:HEARD ISLAND AND McDONALD ISLANDS CcyNm:Australian Dollar Ccy:AUD CcyNbr:036 CcyMnrUnts:2]
+map[CtryNm:HOLY SEE (THE) CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CtryNm:HONDURAS CcyNm:Lempira Ccy:HNL CcyNbr:340 CcyMnrUnts:2]
+map[CcyMnrUnts:2 CtryNm:HONG KONG CcyNm:Hong Kong Dollar Ccy:HKD CcyNbr:344]
+map[CtryNm:HUNGARY CcyNm:Forint Ccy:HUF CcyNbr:348 CcyMnrUnts:2]
+map[CtryNm:ICELAND CcyNm:Iceland Krona Ccy:ISK CcyNbr:352 CcyMnrUnts:0]
+map[CtryNm:INDIA CcyNm:Indian Rupee Ccy:INR CcyNbr:356 CcyMnrUnts:2]
+map[CtryNm:INDONESIA CcyNm:Rupiah Ccy:IDR CcyNbr:360 CcyMnrUnts:2]
+map[CcyMnrUnts:N.A. CtryNm:INTERNATIONAL MONETARY FUND (IMF) CcyNm:SDR (Special Drawing Right) Ccy:XDR CcyNbr:960]
+map[CtryNm:IRAN (ISLAMIC REPUBLIC OF) CcyNm:Iranian Rial Ccy:IRR CcyNbr:364 CcyMnrUnts:2]
+map[CtryNm:IRAQ CcyNm:Iraqi Dinar Ccy:IQD CcyNbr:368 CcyMnrUnts:3]
+map[CtryNm:IRELAND CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CcyNm:Pound Sterling Ccy:GBP CcyNbr:826 CcyMnrUnts:2 CtryNm:ISLE OF MAN]
+map[Ccy:ILS CcyNbr:376 CcyMnrUnts:2 CtryNm:ISRAEL CcyNm:New Israeli Sheqel]
+map[CcyNbr:978 CcyMnrUnts:2 CtryNm:ITALY CcyNm:Euro Ccy:EUR]
+map[CcyNm:Jamaican Dollar Ccy:JMD CcyNbr:388 CcyMnrUnts:2 CtryNm:JAMAICA]
+map[Ccy:JPY CcyNbr:392 CcyMnrUnts:0 CtryNm:JAPAN CcyNm:Yen]
+map[CcyMnrUnts:2 CtryNm:JERSEY CcyNm:Pound Sterling Ccy:GBP CcyNbr:826]
+map[CtryNm:JORDAN CcyNm:Jordanian Dinar Ccy:JOD CcyNbr:400 CcyMnrUnts:3]
+map[CtryNm:KAZAKHSTAN CcyNm:Tenge Ccy:KZT CcyNbr:398 CcyMnrUnts:2]
+map[CcyNm:Kenyan Shilling Ccy:KES CcyNbr:404 CcyMnrUnts:2 CtryNm:KENYA]
+map[CtryNm:KIRIBATI CcyNm:Australian Dollar Ccy:AUD CcyNbr:036 CcyMnrUnts:2]
+map[CtryNm:KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF) CcyNm:North Korean Won Ccy:KPW CcyNbr:408 CcyMnrUnts:2]
+map[Ccy:KRW CcyNbr:410 CcyMnrUnts:0 CtryNm:KOREA (THE REPUBLIC OF) CcyNm:Won]
+map[CcyNbr:414 CcyMnrUnts:3 CtryNm:KUWAIT CcyNm:Kuwaiti Dinar Ccy:KWD]
+map[CcyNm:Som Ccy:KGS CcyNbr:417 CcyMnrUnts:2 CtryNm:KYRGYZSTAN]
+map[Ccy:LAK CcyNbr:418 CcyMnrUnts:2 CtryNm:LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE) CcyNm:Lao Kip]
+map[CcyMnrUnts:2 CtryNm:LATVIA CcyNm:Euro Ccy:EUR CcyNbr:978]
+map[CtryNm:LEBANON CcyNm:Lebanese Pound Ccy:LBP CcyNbr:422 CcyMnrUnts:2]
+map[CcyNm:Loti Ccy:LSL CcyNbr:426 CcyMnrUnts:2 CtryNm:LESOTHO]
+map[Ccy:ZAR CcyNbr:710 CcyMnrUnts:2 CtryNm:LESOTHO CcyNm:Rand]
+map[CcyNbr:430 CcyMnrUnts:2 CtryNm:LIBERIA CcyNm:Liberian Dollar Ccy:LRD]
+map[CcyNm:Libyan Dinar Ccy:LYD CcyNbr:434 CcyMnrUnts:3 CtryNm:LIBYA]
+map[Ccy:CHF CcyNbr:756 CcyMnrUnts:2 CtryNm:LIECHTENSTEIN CcyNm:Swiss Franc]
+map[CcyMnrUnts:2 CtryNm:LITHUANIA CcyNm:Euro Ccy:EUR CcyNbr:978]
+map[CtryNm:LUXEMBOURG CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CcyNm:Pataca Ccy:MOP CcyNbr:446 CcyMnrUnts:2 CtryNm:MACAO]
+map[Ccy:MKD CcyNbr:807 CcyMnrUnts:2 CtryNm:MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF) CcyNm:Denar]
+map[CcyMnrUnts:2 CtryNm:MADAGASCAR CcyNm:Malagasy Ariary Ccy:MGA CcyNbr:969]
+map[CtryNm:MALAWI CcyNm:Malawi Kwacha Ccy:MWK CcyNbr:454 CcyMnrUnts:2]
+map[CtryNm:MALAYSIA CcyNm:Malaysian Ringgit Ccy:MYR CcyNbr:458 CcyMnrUnts:2]
+map[CtryNm:MALDIVES CcyNm:Rufiyaa Ccy:MVR CcyNbr:462 CcyMnrUnts:2]
+map[CtryNm:MALI CcyNm:CFA Franc BCEAO Ccy:XOF CcyNbr:952 CcyMnrUnts:0]
+map[CtryNm:MALTA CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CtryNm:MARSHALL ISLANDS (THE) CcyNm:US Dollar Ccy:USD CcyNbr:840 CcyMnrUnts:2]
+map[CtryNm:MARTINIQUE CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CcyNm:Ouguiya Ccy:MRU CcyNbr:929 CcyMnrUnts:2 CtryNm:MAURITANIA]
+map[CtryNm:MAURITIUS CcyNm:Mauritius Rupee Ccy:MUR CcyNbr:480 CcyMnrUnts:2]
+map[Ccy:EUR CcyNbr:978 CcyMnrUnts:2 CtryNm:MAYOTTE CcyNm:Euro]
+map[CcyMnrUnts:N.A. CtryNm:MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP CcyNm:ADB Unit of Account Ccy:XUA CcyNbr:965]
+map[CtryNm:MEXICO CcyNm:Mexican Peso Ccy:MXN CcyNbr:484 CcyMnrUnts:2]
+map[CtryNm:MEXICO CcyNm:map[IsFund:true $t:Mexican Unidad de Inversion (UDI)] Ccy:MXV CcyNbr:979 CcyMnrUnts:2]
+map[CtryNm:MICRONESIA (FEDERATED STATES OF) CcyNm:US Dollar Ccy:USD CcyNbr:840 CcyMnrUnts:2]
+map[CtryNm:MOLDOVA (THE REPUBLIC OF) CcyNm:Moldovan Leu Ccy:MDL CcyNbr:498 CcyMnrUnts:2]
+map[CtryNm:MONACO CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CcyNm:Tugrik Ccy:MNT CcyNbr:496 CcyMnrUnts:2 CtryNm:MONGOLIA]
+map[CtryNm:MONTENEGRO CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CtryNm:MONTSERRAT CcyNm:East Caribbean Dollar Ccy:XCD CcyNbr:951 CcyMnrUnts:2]
+map[Ccy:MAD CcyNbr:504 CcyMnrUnts:2 CtryNm:MOROCCO CcyNm:Moroccan Dirham]
+map[CcyNbr:943 CcyMnrUnts:2 CtryNm:MOZAMBIQUE CcyNm:Mozambique Metical Ccy:MZN]
+map[CtryNm:MYANMAR CcyNm:Kyat Ccy:MMK CcyNbr:104 CcyMnrUnts:2]
+map[CcyMnrUnts:2 CtryNm:NAMIBIA CcyNm:Namibia Dollar Ccy:NAD CcyNbr:516]
+map[CtryNm:NAMIBIA CcyNm:Rand Ccy:ZAR CcyNbr:710 CcyMnrUnts:2]
+map[CcyNm:Australian Dollar Ccy:AUD CcyNbr:036 CcyMnrUnts:2 CtryNm:NAURU]
+map[CtryNm:NEPAL CcyNm:Nepalese Rupee Ccy:NPR CcyNbr:524 CcyMnrUnts:2]
+map[Ccy:EUR CcyNbr:978 CcyMnrUnts:2 CtryNm:NETHERLANDS (THE) CcyNm:Euro]
+map[CcyNbr:953 CcyMnrUnts:0 CtryNm:NEW CALEDONIA CcyNm:CFP Franc Ccy:XPF]
+map[CtryNm:NEW ZEALAND CcyNm:New Zealand Dollar Ccy:NZD CcyNbr:554 CcyMnrUnts:2]
+map[CcyNbr:558 CcyMnrUnts:2 CtryNm:NICARAGUA CcyNm:Cordoba Oro Ccy:NIO]
+map[CtryNm:NIGER (THE) CcyNm:CFA Franc BCEAO Ccy:XOF CcyNbr:952 CcyMnrUnts:0]
+map[CcyMnrUnts:2 CtryNm:NIGERIA CcyNm:Naira Ccy:NGN CcyNbr:566]
+map[CtryNm:NIUE CcyNm:New Zealand Dollar Ccy:NZD CcyNbr:554 CcyMnrUnts:2]
+map[CtryNm:NORFOLK ISLAND CcyNm:Australian Dollar Ccy:AUD CcyNbr:036 CcyMnrUnts:2]
+map[CtryNm:NORTHERN MARIANA ISLANDS (THE) CcyNm:US Dollar Ccy:USD CcyNbr:840 CcyMnrUnts:2]
+map[CcyNm:Norwegian Krone Ccy:NOK CcyNbr:578 CcyMnrUnts:2 CtryNm:NORWAY]
+map[Ccy:OMR CcyNbr:512 CcyMnrUnts:3 CtryNm:OMAN CcyNm:Rial Omani]
+map[CcyNbr:586 CcyMnrUnts:2 CtryNm:PAKISTAN CcyNm:Pakistan Rupee Ccy:PKR]
+map[CcyNm:US Dollar Ccy:USD CcyNbr:840 CcyMnrUnts:2 CtryNm:PALAU]
+map[CtryNm:PANAMA CcyNm:Balboa Ccy:PAB CcyNbr:590 CcyMnrUnts:2]
+map[CtryNm:PANAMA CcyNm:US Dollar Ccy:USD CcyNbr:840 CcyMnrUnts:2]
+map[Ccy:PGK CcyNbr:598 CcyMnrUnts:2 CtryNm:PAPUA NEW GUINEA CcyNm:Kina]
+map[CcyNbr:600 CcyMnrUnts:0 CtryNm:PARAGUAY CcyNm:Guarani Ccy:PYG]
+map[CtryNm:PERU CcyNm:Sol Ccy:PEN CcyNbr:604 CcyMnrUnts:2]
+map[CcyNbr:608 CcyMnrUnts:2 CtryNm:PHILIPPINES (THE) CcyNm:Philippine Piso Ccy:PHP]
+map[CcyNm:New Zealand Dollar Ccy:NZD CcyNbr:554 CcyMnrUnts:2 CtryNm:PITCAIRN]
+map[Ccy:PLN CcyNbr:985 CcyMnrUnts:2 CtryNm:POLAND CcyNm:Zloty]
+map[CcyNbr:978 CcyMnrUnts:2 CtryNm:PORTUGAL CcyNm:Euro Ccy:EUR]
+map[CtryNm:PUERTO RICO CcyNm:US Dollar Ccy:USD CcyNbr:840 CcyMnrUnts:2]
+map[CcyMnrUnts:2 CtryNm:QATAR CcyNm:Qatari Rial Ccy:QAR CcyNbr:634]
+map[CtryNm:RÉUNION CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CtryNm:ROMANIA CcyNm:Romanian Leu Ccy:RON CcyNbr:946 CcyMnrUnts:2]
+map[CcyNm:Russian Ruble Ccy:RUB CcyNbr:643 CcyMnrUnts:2 CtryNm:RUSSIAN FEDERATION (THE)]
+map[Ccy:RWF CcyNbr:646 CcyMnrUnts:0 CtryNm:RWANDA CcyNm:Rwanda Franc]
+map[CcyMnrUnts:2 CtryNm:SAINT BARTHÉLEMY CcyNm:Euro Ccy:EUR CcyNbr:978]
+map[CtryNm:SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA CcyNm:Saint Helena Pound Ccy:SHP CcyNbr:654 CcyMnrUnts:2]
+map[CtryNm:SAINT KITTS AND NEVIS CcyNm:East Caribbean Dollar Ccy:XCD CcyNbr:951 CcyMnrUnts:2]
+map[CtryNm:SAINT LUCIA CcyNm:East Caribbean Dollar Ccy:XCD CcyNbr:951 CcyMnrUnts:2]
+map[CcyNbr:978 CcyMnrUnts:2 CtryNm:SAINT MARTIN (FRENCH PART) CcyNm:Euro Ccy:EUR]
+map[CtryNm:SAINT PIERRE AND MIQUELON CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CcyMnrUnts:2 CtryNm:SAINT VINCENT AND THE GRENADINES CcyNm:East Caribbean Dollar Ccy:XCD CcyNbr:951]
+map[CtryNm:SAMOA CcyNm:Tala Ccy:WST CcyNbr:882 CcyMnrUnts:2]
+map[CtryNm:SAN MARINO CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CcyNm:Dobra Ccy:STN CcyNbr:930 CcyMnrUnts:2 CtryNm:SAO TOME AND PRINCIPE]
+map[CtryNm:SAUDI ARABIA CcyNm:Saudi Riyal Ccy:SAR CcyNbr:682 CcyMnrUnts:2]
+map[CtryNm:SENEGAL CcyNm:CFA Franc BCEAO Ccy:XOF CcyNbr:952 CcyMnrUnts:0]
+map[CtryNm:SERBIA CcyNm:Serbian Dinar Ccy:RSD CcyNbr:941 CcyMnrUnts:2]
+map[CtryNm:SEYCHELLES CcyNm:Seychelles Rupee Ccy:SCR CcyNbr:690 CcyMnrUnts:2]
+map[Ccy:SLL CcyNbr:694 CcyMnrUnts:2 CtryNm:SIERRA LEONE CcyNm:Leone]
+map[CcyNbr:702 CcyMnrUnts:2 CtryNm:SINGAPORE CcyNm:Singapore Dollar Ccy:SGD]
+map[CcyNm:Netherlands Antillean Guilder Ccy:ANG CcyNbr:532 CcyMnrUnts:2 CtryNm:SINT MAARTEN (DUTCH PART)]
+map[CtryNm:SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS "SUCRE" CcyNm:Sucre Ccy:XSU CcyNbr:994 CcyMnrUnts:N.A.]
+map[CtryNm:SLOVAKIA CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CtryNm:SLOVENIA CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[Ccy:SBD CcyNbr:090 CcyMnrUnts:2 CtryNm:SOLOMON ISLANDS CcyNm:Solomon Islands Dollar]
+map[CcyMnrUnts:2 CtryNm:SOMALIA CcyNm:Somali Shilling Ccy:SOS CcyNbr:706]
+map[CtryNm:SOUTH AFRICA CcyNm:Rand Ccy:ZAR CcyNbr:710 CcyMnrUnts:2]
+map[CtryNm:SOUTH SUDAN CcyNm:South Sudanese Pound Ccy:SSP CcyNbr:728 CcyMnrUnts:2]
+map[CtryNm:SPAIN CcyNm:Euro Ccy:EUR CcyNbr:978 CcyMnrUnts:2]
+map[CcyNbr:144 CcyMnrUnts:2 CtryNm:SRI LANKA CcyNm:Sri Lanka Rupee Ccy:LKR]
+map[CcyNm:Sudanese Pound Ccy:SDG CcyNbr:938 CcyMnrUnts:2 CtryNm:SUDAN (THE)]
+map[CtryNm:SURINAME CcyNm:Surinam Dollar Ccy:SRD CcyNbr:968 CcyMnrUnts:2]
+map[CtryNm:SVALBARD AND JAN MAYEN CcyNm:Norwegian Krone Ccy:NOK CcyNbr:578 CcyMnrUnts:2]
+map[CtryNm:SWAZILAND CcyNm:Lilangeni Ccy:SZL CcyNbr:748 CcyMnrUnts:2]
+map[CtryNm:SWEDEN CcyNm:Swedish Krona Ccy:SEK CcyNbr:752 CcyMnrUnts:2]
+map[CtryNm:SWITZERLAND CcyNm:Swiss Franc Ccy:CHF CcyNbr:756 CcyMnrUnts:2]
+map[Ccy:CHE CcyNbr:947 CcyMnrUnts:2 CtryNm:SWITZERLAND CcyNm:map[IsFund:true $t:WIR Euro]]
+map[CtryNm:SWITZERLAND CcyNm:map[IsFund:true $t:WIR Franc] Ccy:CHW CcyNbr:948 CcyMnrUnts:2]
+map[CtryNm:SYRIAN ARAB REPUBLIC CcyNm:Syrian Pound Ccy:SYP CcyNbr:760 CcyMnrUnts:2]
+map[CcyNbr:901 CcyMnrUnts:2 CtryNm:TAIWAN (PROVINCE OF CHINA) CcyNm:New Taiwan Dollar Ccy:TWD]
+map[CcyNm:Somoni Ccy:TJS CcyNbr:972 CcyMnrUnts:2 CtryNm:TAJIKISTAN]
+map[CtryNm:TANZANIA, UNITED REPUBLIC OF CcyNm:Tanzanian Shilling Ccy:TZS CcyNbr:834 CcyMnrUnts:2]
+map[CtryNm:THAILAND CcyNm:Baht Ccy:THB CcyNbr:764 CcyMnrUnts:2]
+map[CtryNm:TIMOR-LESTE CcyNm:US Dollar Ccy:USD CcyNbr:840 CcyMnrUnts:2]
+map[Ccy:XOF CcyNbr:952 CcyMnrUnts:0 CtryNm:TOGO CcyNm:CFA Franc BCEAO]
+map[CcyMnrUnts:2 CtryNm:TOKELAU CcyNm:New Zealand Dollar Ccy:NZD CcyNbr:554]
+map[CtryNm:TONGA CcyNm:Pa’anga Ccy:TOP CcyNbr:776 CcyMnrUnts:2]
+map[CtryNm:TRINIDAD AND TOBAGO CcyNm:Trinidad and Tobago Dollar Ccy:TTD CcyNbr:780 CcyMnrUnts:2]
+map[CtryNm:TUNISIA CcyNm:Tunisian Dinar Ccy:TND CcyNbr:788 CcyMnrUnts:3]
+map[CtryNm:TURKEY CcyNm:Turkish Lira Ccy:TRY CcyNbr:949 CcyMnrUnts:2]
+map[CcyNm:Turkmenistan New Manat Ccy:TMT CcyNbr:934 CcyMnrUnts:2 CtryNm:TURKMENISTAN]
+map[CtryNm:TURKS AND CAICOS ISLANDS (THE) CcyNm:US Dollar Ccy:USD CcyNbr:840 CcyMnrUnts:2]
+map[CtryNm:TUVALU CcyNm:Australian Dollar Ccy:AUD CcyNbr:036 CcyMnrUnts:2]
+map[CtryNm:UGANDA CcyNm:Uganda Shilling Ccy:UGX CcyNbr:800 CcyMnrUnts:0]
+map[Ccy:UAH CcyNbr:980 CcyMnrUnts:2 CtryNm:UKRAINE CcyNm:Hryvnia]
+map[CcyNbr:784 CcyMnrUnts:2 CtryNm:UNITED ARAB EMIRATES (THE) CcyNm:UAE Dirham Ccy:AED]
+map[CcyNm:Pound Sterling Ccy:GBP CcyNbr:826 CcyMnrUnts:2 CtryNm:UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)]
+map[CtryNm:UNITED STATES MINOR OUTLYING ISLANDS (THE) CcyNm:US Dollar Ccy:USD CcyNbr:840 CcyMnrUnts:2]
+map[Ccy:USD CcyNbr:840 CcyMnrUnts:2 CtryNm:UNITED STATES OF AMERICA (THE) CcyNm:US Dollar]
+map[CcyNbr:997 CcyMnrUnts:2 CtryNm:UNITED STATES OF AMERICA (THE) CcyNm:map[$t:US Dollar (Next day) IsFund:true] Ccy:USN]
+map[Ccy:UYU CcyNbr:858 CcyMnrUnts:2 CtryNm:URUGUAY CcyNm:Peso Uruguayo]
+map[CcyNbr:940 CcyMnrUnts:0 CtryNm:URUGUAY CcyNm:map[$t:Uruguay Peso en Unidades Indexadas (URUIURUI) IsFund:true] Ccy:UYI]
+map[Ccy:UZS CcyNbr:860 CcyMnrUnts:2 CtryNm:UZBEKISTAN CcyNm:Uzbekistan Sum]
+map[CcyMnrUnts:0 CtryNm:VANUATU CcyNm:Vatu Ccy:VUV CcyNbr:548]
+map[CtryNm:VENEZUELA (BOLIVARIAN REPUBLIC OF) CcyNm:Bolívar Ccy:VEF CcyNbr:937 CcyMnrUnts:2]
+map[CtryNm:VIET NAM CcyNm:Dong Ccy:VND CcyNbr:704 CcyMnrUnts:0]
+map[CcyNbr:840 CcyMnrUnts:2 CtryNm:VIRGIN ISLANDS (BRITISH) CcyNm:US Dollar Ccy:USD]
+map[CcyNm:US Dollar Ccy:USD CcyNbr:840 CcyMnrUnts:2 CtryNm:VIRGIN ISLANDS (U.S.)]
+map[Ccy:XPF CcyNbr:953 CcyMnrUnts:0 CtryNm:WALLIS AND FUTUNA CcyNm:CFP Franc]
+map[CcyNbr:504 CcyMnrUnts:2 CtryNm:WESTERN SAHARA CcyNm:Moroccan Dirham Ccy:MAD]
+map[CcyNm:Yemeni Rial Ccy:YER CcyNbr:886 CcyMnrUnts:2 CtryNm:YEMEN]
+map[CtryNm:ZAMBIA CcyNm:Zambian Kwacha Ccy:ZMW CcyNbr:967 CcyMnrUnts:2]
+map[CtryNm:ZIMBABWE CcyNm:Zimbabwe Dollar Ccy:ZWL CcyNbr:932 CcyMnrUnts:2]
+map[Ccy:XBA CcyNbr:955 CcyMnrUnts:N.A. CtryNm:ZZ01_Bond Markets Unit European_EURCO CcyNm:Bond Markets Unit European Composite Unit (EURCO)]
+map[CcyNbr:956 CcyMnrUnts:N.A. CtryNm:ZZ02_Bond Markets Unit European_EMU-6 CcyNm:Bond Markets Unit European Monetary Unit (E.M.U.-6) Ccy:XBB]
+map[CtryNm:ZZ03_Bond Markets Unit European_EUA-9 CcyNm:Bond Markets Unit European Unit of Account 9 (E.U.A.-9) Ccy:XBC CcyNbr:957 CcyMnrUnts:N.A.]
+map[CcyNbr:958 CcyMnrUnts:N.A. CtryNm:ZZ04_Bond Markets Unit European_EUA-17 CcyNm:Bond Markets Unit European Unit of Account 17 (E.U.A.-17) Ccy:XBD]
+map[CcyNm:Codes specifically reserved for testing purposes Ccy:XTS CcyNbr:963 CcyMnrUnts:N.A. CtryNm:ZZ06_Testing_Code]
+map[Ccy:XXX CcyNbr:999 CcyMnrUnts:N.A. CtryNm:ZZ07_No_Currency CcyNm:The codes assigned for transactions where no currency is involved]
+map[CcyMnrUnts:N.A. CtryNm:ZZ08_Gold CcyNm:Gold Ccy:XAU CcyNbr:959]
+map[CtryNm:ZZ09_Palladium CcyNm:Palladium Ccy:XPD CcyNbr:964 CcyMnrUnts:N.A.]
+map[CtryNm:ZZ10_Platinum CcyNm:Platinum Ccy:XPT CcyNbr:962 CcyMnrUnts:N.A.]
+map[CtryNm:ZZ11_Silver CcyNm:Silver Ccy:XAG CcyNbr:961 CcyMnrUnts:N.A.]
+syntax = "proto3";
+
+/** Currency codes - ISO 4217
+ *
+ * http://www.iso.org/iso/home/standards/currency_codes.htm
+ */
+
+package currency;
+
+enum CurrencyCode {
+  _ = 0; // zero vale
+
+/**
+ * UAE Dirham
+ *
+ * * UNITED ARAB EMIRATES (THE)
+
+ */
+  AED = 784;
+
+/**
+ * Afghani
+ *
+ * * AFGHANISTAN
+
+ */
+  AFN = 971;
+
+/**
+ * Lek
+ *
+ * * ALBANIA
+
+ */
+  ALL = 8;
+
+/**
+ * Armenian Dram
+ *
+ * * ARMENIA
+
+ */
+  AMD = 51;
+
+/**
+ * Netherlands Antillean Guilder
+ *
+ * * CURAÇAO
+ * * SINT MAARTEN (DUTCH PART)
+
+ */
+  ANG = 532;
+
+/**
+ * Kwanza
+ *
+ * * ANGOLA
+
+ */
+  AOA = 973;
+
+/**
+ * Argentine Peso
+ *
+ * * ARGENTINA
+
+ */
+  ARS = 32;
+
+/**
+ * Australian Dollar
+ *
+ * * AUSTRALIA
+ * * CHRISTMAS ISLAND
+ * * COCOS (KEELING) ISLANDS (THE)
+ * * HEARD ISLAND AND McDONALD ISLANDS
+ * * KIRIBATI
+ * * NAURU
+ * * NORFOLK ISLAND
+ * * TUVALU
+
+ */
+  AUD = 36;
+
+/**
+ * Aruban Florin
+ *
+ * * ARUBA
+
+ */
+  AWG = 533;
+
+/**
+ * Azerbaijan Manat
+ *
+ * * AZERBAIJAN
+
+ */
+  AZN = 944;
+
+/**
+ * Convertible Mark
+ *
+ * * BOSNIA AND HERZEGOVINA
+
+ */
+  BAM = 977;
+
+/**
+ * Barbados Dollar
+ *
+ * * BARBADOS
+
+ */
+  BBD = 52;
+
+/**
+ * Taka
+ *
+ * * BANGLADESH
+
+ */
+  BDT = 50;
+
+/**
+ * Bulgarian Lev
+ *
+ * * BULGARIA
+
+ */
+  BGN = 975;
+
+/**
+ * Bahraini Dinar
+ *
+ * * BAHRAIN
+
+ */
+  BHD = 48;
+
+/**
+ * Burundi Franc
+ *
+ * * BURUNDI
+
+ */
+  BIF = 108;
+
+/**
+ * Bermudian Dollar
+ *
+ * * BERMUDA
+
+ */
+  BMD = 60;
+
+/**
+ * Brunei Dollar
+ *
+ * * BRUNEI DARUSSALAM
+
+ */
+  BND = 96;
+
+/**
+ * Boliviano
+ *
+ * * BOLIVIA (PLURINATIONAL STATE OF)
+
+ */
+  BOB = 68;
+
+/**
+ * Mvdol
+ *
+ * * BOLIVIA (PLURINATIONAL STATE OF)
+
+ */
+  BOV = 984;
+
+/**
+ * Brazilian Real
+ *
+ * * BRAZIL
+
+ */
+  BRL = 986;
+
+/**
+ * Bahamian Dollar
+ *
+ * * BAHAMAS (THE)
+
+ */
+  BSD = 44;
+
+/**
+ * Ngultrum
+ *
+ * * BHUTAN
+
+ */
+  BTN = 64;
+
+/**
+ * Pula
+ *
+ * * BOTSWANA
+
+ */
+  BWP = 72;
+
+/**
+ * Belarusian Ruble
+ *
+ * * BELARUS
+
+ */
+  BYN = 933;
+
+/**
+ * Belize Dollar
+ *
+ * * BELIZE
+
+ */
+  BZD = 84;
+
+/**
+ * Canadian Dollar
+ *
+ * * CANADA
+
+ */
+  CAD = 124;
+
+/**
+ * Congolese Franc
+ *
+ * * CONGO (THE DEMOCRATIC REPUBLIC OF THE)
+
+ */
+  CDF = 976;
+
+/**
+ * WIR Euro
+ *
+ * * SWITZERLAND
+
+ */
+  CHE = 947;
+
+/**
+ * Swiss Franc
+ *
+ * * LIECHTENSTEIN
+ * * SWITZERLAND
+
+ */
+  CHF = 756;
+
+/**
+ * WIR Franc
+ *
+ * * SWITZERLAND
+
+ */
+  CHW = 948;
+
+/**
+ * Unidad de Fomento
+ *
+ * * CHILE
+
+ */
+  CLF = 990;
+
+/**
+ * Chilean Peso
+ *
+ * * CHILE
+
+ */
+  CLP = 152;
+
+/**
+ * Yuan Renminbi
+ *
+ * * CHINA
+
+ */
+  CNY = 156;
+
+/**
+ * Colombian Peso
+ *
+ * * COLOMBIA
+
+ */
+  COP = 170;
+
+/**
+ * Unidad de Valor Real
+ *
+ * * COLOMBIA
+
+ */
+  COU = 970;
+
+/**
+ * Costa Rican Colon
+ *
+ * * COSTA RICA
+
+ */
+  CRC = 188;
+
+/**
+ * Peso Convertible
+ *
+ * * CUBA
+
+ */
+  CUC = 931;
+
+/**
+ * Cuban Peso
+ *
+ * * CUBA
+
+ */
+  CUP = 192;
+
+/**
+ * Cabo Verde Escudo
+ *
+ * * CABO VERDE
+
+ */
+  CVE = 132;
+
+/**
+ * Czech Koruna
+ *
+ * * CZECHIA
+
+ */
+  CZK = 203;
+
+/**
+ * Djibouti Franc
+ *
+ * * DJIBOUTI
+
+ */
+  DJF = 262;
+
+/**
+ * Danish Krone
+ *
+ * * DENMARK
+ * * FAROE ISLANDS (THE)
+ * * GREENLAND
+
+ */
+  DKK = 208;
+
+/**
+ * Dominican Peso
+ *
+ * * DOMINICAN REPUBLIC (THE)
+
+ */
+  DOP = 214;
+
+/**
+ * Algerian Dinar
+ *
+ * * ALGERIA
+
+ */
+  DZD = 12;
+
+/**
+ * Egyptian Pound
+ *
+ * * EGYPT
+
+ */
+  EGP = 818;
+
+/**
+ * Nakfa
+ *
+ * * ERITREA
+
+ */
+  ERN = 232;
+
+/**
+ * Ethiopian Birr
+ *
+ * * ETHIOPIA
+
+ */
+  ETB = 230;
+
+/**
+ * Euro
+ *
+ * * ÅLAND ISLANDS
+ * * ANDORRA
+ * * AUSTRIA
+ * * BELGIUM
+ * * CYPRUS
+ * * ESTONIA
+ * * EUROPEAN UNION
+ * * FINLAND
+ * * FRANCE
+ * * FRENCH GUIANA
+ * * FRENCH SOUTHERN TERRITORIES (THE)
+ * * GERMANY
+ * * GREECE
+ * * GUADELOUPE
+ * * HOLY SEE (THE)
+ * * IRELAND
+ * * ITALY
+ * * LATVIA
+ * * LITHUANIA
+ * * LUXEMBOURG
+ * * MALTA
+ * * MARTINIQUE
+ * * MAYOTTE
+ * * MONACO
+ * * MONTENEGRO
+ * * NETHERLANDS (THE)
+ * * PORTUGAL
+ * * RÉUNION
+ * * SAINT BARTHÉLEMY
+ * * SAINT MARTIN (FRENCH PART)
+ * * SAINT PIERRE AND MIQUELON
+ * * SAN MARINO
+ * * SLOVAKIA
+ * * SLOVENIA
+ * * SPAIN
+
+ */
+  EUR = 978;
+
+/**
+ * Fiji Dollar
+ *
+ * * FIJI
+
+ */
+  FJD = 242;
+
+/**
+ * Falkland Islands Pound
+ *
+ * * FALKLAND ISLANDS (THE) [MALVINAS]
+
+ */
+  FKP = 238;
+
+/**
+ * Pound Sterling
+ *
+ * * GUERNSEY
+ * * ISLE OF MAN
+ * * JERSEY
+ * * UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)
+
+ */
+  GBP = 826;
+
+/**
+ * Lari
+ *
+ * * GEORGIA
+
+ */
+  GEL = 981;
+
+/**
+ * Ghana Cedi
+ *
+ * * GHANA
+
+ */
+  GHS = 936;
+
+/**
+ * Gibraltar Pound
+ *
+ * * GIBRALTAR
+
+ */
+  GIP = 292;
+
+/**
+ * Dalasi
+ *
+ * * GAMBIA (THE)
+
+ */
+  GMD = 270;
+
+/**
+ * Guinean Franc
+ *
+ * * GUINEA
+
+ */
+  GNF = 324;
+
+/**
+ * Quetzal
+ *
+ * * GUATEMALA
+
+ */
+  GTQ = 320;
+
+/**
+ * Guyana Dollar
+ *
+ * * GUYANA
+
+ */
+  GYD = 328;
+
+/**
+ * Hong Kong Dollar
+ *
+ * * HONG KONG
+
+ */
+  HKD = 344;
+
+/**
+ * Lempira
+ *
+ * * HONDURAS
+
+ */
+  HNL = 340;
+
+/**
+ * Kuna
+ *
+ * * CROATIA
+
+ */
+  HRK = 191;
+
+/**
+ * Gourde
+ *
+ * * HAITI
+
+ */
+  HTG = 332;
+
+/**
+ * Forint
+ *
+ * * HUNGARY
+
+ */
+  HUF = 348;
+
+/**
+ * Rupiah
+ *
+ * * INDONESIA
+
+ */
+  IDR = 360;
+
+/**
+ * New Israeli Sheqel
+ *
+ * * ISRAEL
+
+ */
+  ILS = 376;
+
+/**
+ * Indian Rupee
+ *
+ * * BHUTAN
+ * * INDIA
+
+ */
+  INR = 356;
+
+/**
+ * Iraqi Dinar
+ *
+ * * IRAQ
+
+ */
+  IQD = 368;
+
+/**
+ * Iranian Rial
+ *
+ * * IRAN (ISLAMIC REPUBLIC OF)
+
+ */
+  IRR = 364;
+
+/**
+ * Iceland Krona
+ *
+ * * ICELAND
+
+ */
+  ISK = 352;
+
+/**
+ * Jamaican Dollar
+ *
+ * * JAMAICA
+
+ */
+  JMD = 388;
+
+/**
+ * Jordanian Dinar
+ *
+ * * JORDAN
+
+ */
+  JOD = 400;
+
+/**
+ * Yen
+ *
+ * * JAPAN
+
+ */
+  JPY = 392;
+
+/**
+ * Kenyan Shilling
+ *
+ * * KENYA
+
+ */
+  KES = 404;
+
+/**
+ * Som
+ *
+ * * KYRGYZSTAN
+
+ */
+  KGS = 417;
+
+/**
+ * Riel
+ *
+ * * CAMBODIA
+
+ */
+  KHR = 116;
+
+/**
+ * Comorian Franc
+ *
+ * * COMOROS (THE)
+
+ */
+  KMF = 174;
+
+/**
+ * North Korean Won
+ *
+ * * KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)
+
+ */
+  KPW = 408;
+
+/**
+ * Won
+ *
+ * * KOREA (THE REPUBLIC OF)
+
+ */
+  KRW = 410;
+
+/**
+ * Kuwaiti Dinar
+ *
+ * * KUWAIT
+
+ */
+  KWD = 414;
+
+/**
+ * Cayman Islands Dollar
+ *
+ * * CAYMAN ISLANDS (THE)
+
+ */
+  KYD = 136;
+
+/**
+ * Tenge
+ *
+ * * KAZAKHSTAN
+
+ */
+  KZT = 398;
+
+/**
+ * Lao Kip
+ *
+ * * LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE)
+
+ */
+  LAK = 418;
+
+/**
+ * Lebanese Pound
+ *
+ * * LEBANON
+
+ */
+  LBP = 422;
+
+/**
+ * Sri Lanka Rupee
+ *
+ * * SRI LANKA
+
+ */
+  LKR = 144;
+
+/**
+ * Liberian Dollar
+ *
+ * * LIBERIA
+
+ */
+  LRD = 430;
+
+/**
+ * Loti
+ *
+ * * LESOTHO
+
+ */
+  LSL = 426;
+
+/**
+ * Libyan Dinar
+ *
+ * * LIBYA
+
+ */
+  LYD = 434;
+
+/**
+ * Moroccan Dirham
+ *
+ * * MOROCCO
+ * * WESTERN SAHARA
+
+ */
+  MAD = 504;
+
+/**
+ * Moldovan Leu
+ *
+ * * MOLDOVA (THE REPUBLIC OF)
+
+ */
+  MDL = 498;
+
+/**
+ * Malagasy Ariary
+ *
+ * * MADAGASCAR
+
+ */
+  MGA = 969;
+
+/**
+ * Denar
+ *
+ * * MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF)
+
+ */
+  MKD = 807;
+
+/**
+ * Kyat
+ *
+ * * MYANMAR
+
+ */
+  MMK = 104;
+
+/**
+ * Tugrik
+ *
+ * * MONGOLIA
+
+ */
+  MNT = 496;
+
+/**
+ * Pataca
+ *
+ * * MACAO
+
+ */
+  MOP = 446;
+
+/**
+ * Ouguiya
+ *
+ * * MAURITANIA
+
+ */
+  MRU = 929;
+
+/**
+ * Mauritius Rupee
+ *
+ * * MAURITIUS
+
+ */
+  MUR = 480;
+
+/**
+ * Rufiyaa
+ *
+ * * MALDIVES
+
+ */
+  MVR = 462;
+
+/**
+ * Malawi Kwacha
+ *
+ * * MALAWI
+
+ */
+  MWK = 454;
+
+/**
+ * Mexican Peso
+ *
+ * * MEXICO
+
+ */
+  MXN = 484;
+
+/**
+ * Mexican Unidad de Inversion (UDI)
+ *
+ * * MEXICO
+
+ */
+  MXV = 979;
+
+/**
+ * Malaysian Ringgit
+ *
+ * * MALAYSIA
+
+ */
+  MYR = 458;
+
+/**
+ * Mozambique Metical
+ *
+ * * MOZAMBIQUE
+
+ */
+  MZN = 943;
+
+/**
+ * Namibia Dollar
+ *
+ * * NAMIBIA
+
+ */
+  NAD = 516;
+
+/**
+ * Naira
+ *
+ * * NIGERIA
+
+ */
+  NGN = 566;
+
+/**
+ * Cordoba Oro
+ *
+ * * NICARAGUA
+
+ */
+  NIO = 558;
+
+/**
+ * Norwegian Krone
+ *
+ * * BOUVET ISLAND
+ * * NORWAY
+ * * SVALBARD AND JAN MAYEN
+
+ */
+  NOK = 578;
+
+/**
+ * Nepalese Rupee
+ *
+ * * NEPAL
+
+ */
+  NPR = 524;
+
+/**
+ * New Zealand Dollar
+ *
+ * * COOK ISLANDS (THE)
+ * * NEW ZEALAND
+ * * NIUE
+ * * PITCAIRN
+ * * TOKELAU
+
+ */
+  NZD = 554;
+
+/**
+ * Rial Omani
+ *
+ * * OMAN
+
+ */
+  OMR = 512;
+
+/**
+ * Balboa
+ *
+ * * PANAMA
+
+ */
+  PAB = 590;
+
+/**
+ * Sol
+ *
+ * * PERU
+
+ */
+  PEN = 604;
+
+/**
+ * Kina
+ *
+ * * PAPUA NEW GUINEA
+
+ */
+  PGK = 598;
+
+/**
+ * Philippine Piso
+ *
+ * * PHILIPPINES (THE)
+
+ */
+  PHP = 608;
+
+/**
+ * Pakistan Rupee
+ *
+ * * PAKISTAN
+
+ */
+  PKR = 586;
+
+/**
+ * Zloty
+ *
+ * * POLAND
+
+ */
+  PLN = 985;
+
+/**
+ * Guarani
+ *
+ * * PARAGUAY
+
+ */
+  PYG = 600;
+
+/**
+ * Qatari Rial
+ *
+ * * QATAR
+
+ */
+  QAR = 634;
+
+/**
+ * Romanian Leu
+ *
+ * * ROMANIA
+
+ */
+  RON = 946;
+
+/**
+ * Serbian Dinar
+ *
+ * * SERBIA
+
+ */
+  RSD = 941;
+
+/**
+ * Russian Ruble
+ *
+ * * RUSSIAN FEDERATION (THE)
+
+ */
+  RUB = 643;
+
+/**
+ * Rwanda Franc
+ *
+ * * RWANDA
+
+ */
+  RWF = 646;
+
+/**
+ * Saudi Riyal
+ *
+ * * SAUDI ARABIA
+
+ */
+  SAR = 682;
+
+/**
+ * Solomon Islands Dollar
+ *
+ * * SOLOMON ISLANDS
+
+ */
+  SBD = 90;
+
+/**
+ * Seychelles Rupee
+ *
+ * * SEYCHELLES
+
+ */
+  SCR = 690;
+
+/**
+ * Sudanese Pound
+ *
+ * * SUDAN (THE)
+
+ */
+  SDG = 938;
+
+/**
+ * Swedish Krona
+ *
+ * * SWEDEN
+
+ */
+  SEK = 752;
+
+/**
+ * Singapore Dollar
+ *
+ * * SINGAPORE
+
+ */
+  SGD = 702;
+
+/**
+ * Saint Helena Pound
+ *
+ * * SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA
+
+ */
+  SHP = 654;
+
+/**
+ * Leone
+ *
+ * * SIERRA LEONE
+
+ */
+  SLL = 694;
+
+/**
+ * Somali Shilling
+ *
+ * * SOMALIA
+
+ */
+  SOS = 706;
+
+/**
+ * Surinam Dollar
+ *
+ * * SURINAME
+
+ */
+  SRD = 968;
+
+/**
+ * South Sudanese Pound
+ *
+ * * SOUTH SUDAN
+
+ */
+  SSP = 728;
+
+/**
+ * Dobra
+ *
+ * * SAO TOME AND PRINCIPE
+
+ */
+  STN = 930;
+
+/**
+ * El Salvador Colon
+ *
+ * * EL SALVADOR
+
+ */
+  SVC = 222;
+
+/**
+ * Syrian Pound
+ *
+ * * SYRIAN ARAB REPUBLIC
+
+ */
+  SYP = 760;
+
+/**
+ * Lilangeni
+ *
+ * * SWAZILAND
+
+ */
+  SZL = 748;
+
+/**
+ * Baht
+ *
+ * * THAILAND
+
+ */
+  THB = 764;
+
+/**
+ * Somoni
+ *
+ * * TAJIKISTAN
+
+ */
+  TJS = 972;
+
+/**
+ * Turkmenistan New Manat
+ *
+ * * TURKMENISTAN
+
+ */
+  TMT = 934;
+
+/**
+ * Tunisian Dinar
+ *
+ * * TUNISIA
+
+ */
+  TND = 788;
+
+/**
+ * Pa’anga
+ *
+ * * TONGA
+
+ */
+  TOP = 776;
+
+/**
+ * Turkish Lira
+ *
+ * * TURKEY
+
+ */
+  TRY = 949;
+
+/**
+ * Trinidad and Tobago Dollar
+ *
+ * * TRINIDAD AND TOBAGO
+
+ */
+  TTD = 780;
+
+/**
+ * New Taiwan Dollar
+ *
+ * * TAIWAN (PROVINCE OF CHINA)
+
+ */
+  TWD = 901;
+
+/**
+ * Tanzanian Shilling
+ *
+ * * TANZANIA, UNITED REPUBLIC OF
+
+ */
+  TZS = 834;
+
+/**
+ * Hryvnia
+ *
+ * * UKRAINE
+
+ */
+  UAH = 980;
+
+/**
+ * Uganda Shilling
+ *
+ * * UGANDA
+
+ */
+  UGX = 800;
+
+/**
+ * US Dollar
+ *
+ * * AMERICAN SAMOA
+ * * BONAIRE, SINT EUSTATIUS AND SABA
+ * * BRITISH INDIAN OCEAN TERRITORY (THE)
+ * * ECUADOR
+ * * EL SALVADOR
+ * * GUAM
+ * * HAITI
+ * * MARSHALL ISLANDS (THE)
+ * * MICRONESIA (FEDERATED STATES OF)
+ * * NORTHERN MARIANA ISLANDS (THE)
+ * * PALAU
+ * * PANAMA
+ * * PUERTO RICO
+ * * TIMOR-LESTE
+ * * TURKS AND CAICOS ISLANDS (THE)
+ * * UNITED STATES MINOR OUTLYING ISLANDS (THE)
+ * * UNITED STATES OF AMERICA (THE)
+ * * VIRGIN ISLANDS (BRITISH)
+ * * VIRGIN ISLANDS (U.S.)
+
+ */
+  USD = 840;
+
+/**
+ * US Dollar (Next day)
+ *
+ * * UNITED STATES OF AMERICA (THE)
+
+ */
+  USN = 997;
+
+/**
+ * Uruguay Peso en Unidades Indexadas (URUIURUI)
+ *
+ * * URUGUAY
+
+ */
+  UYI = 940;
+
+/**
+ * Peso Uruguayo
+ *
+ * * URUGUAY
+
+ */
+  UYU = 858;
+
+/**
+ * Uzbekistan Sum
+ *
+ * * UZBEKISTAN
+
+ */
+  UZS = 860;
+
+/**
+ * Bolívar
+ *
+ * * VENEZUELA (BOLIVARIAN REPUBLIC OF)
+
+ */
+  VEF = 937;
+
+/**
+ * Dong
+ *
+ * * VIET NAM
+
+ */
+  VND = 704;
+
+/**
+ * Vatu
+ *
+ * * VANUATU
+
+ */
+  VUV = 548;
+
+/**
+ * Tala
+ *
+ * * SAMOA
+
+ */
+  WST = 882;
+
+/**
+ * CFA Franc BEAC
+ *
+ * * CAMEROON
+ * * CENTRAL AFRICAN REPUBLIC (THE)
+ * * CHAD
+ * * CONGO (THE)
+ * * EQUATORIAL GUINEA
+ * * GABON
+
+ */
+  XAF = 950;
+
+/**
+ * Silver
+ *
+ * * ZZ11_Silver
+
+ */
+  XAG = 961;
+
+/**
+ * Gold
+ *
+ * * ZZ08_Gold
+
+ */
+  XAU = 959;
+
+/**
+ * Bond Markets Unit European Composite Unit (EURCO)
+ *
+ * * ZZ01_Bond Markets Unit European_EURCO
+
+ */
+  XBA = 955;
+
+/**
+ * Bond Markets Unit European Monetary Unit (E.M.U.-6)
+ *
+ * * ZZ02_Bond Markets Unit European_EMU-6
+
+ */
+  XBB = 956;
+
+/**
+ * Bond Markets Unit European Unit of Account 9 (E.U.A.-9)
+ *
+ * * ZZ03_Bond Markets Unit European_EUA-9
+
+ */
+  XBC = 957;
+
+/**
+ * Bond Markets Unit European Unit of Account 17 (E.U.A.-17)
+ *
+ * * ZZ04_Bond Markets Unit European_EUA-17
+
+ */
+  XBD = 958;
+
+/**
+ * East Caribbean Dollar
+ *
+ * * ANGUILLA
+ * * ANTIGUA AND BARBUDA
+ * * DOMINICA
+ * * GRENADA
+ * * MONTSERRAT
+ * * SAINT KITTS AND NEVIS
+ * * SAINT LUCIA
+ * * SAINT VINCENT AND THE GRENADINES
+
+ */
+  XCD = 951;
+
+/**
+ * SDR (Special Drawing Right)
+ *
+ * * INTERNATIONAL MONETARY FUND (IMF)
+
+ */
+  XDR = 960;
+
+/**
+ * CFA Franc BCEAO
+ *
+ * * BENIN
+ * * BURKINA FASO
+ * * CÔTE D'IVOIRE
+ * * GUINEA-BISSAU
+ * * MALI
+ * * NIGER (THE)
+ * * SENEGAL
+ * * TOGO
+
+ */
+  XOF = 952;
+
+/**
+ * Palladium
+ *
+ * * ZZ09_Palladium
+
+ */
+  XPD = 964;
+
+/**
+ * CFP Franc
+ *
+ * * FRENCH POLYNESIA
+ * * NEW CALEDONIA
+ * * WALLIS AND FUTUNA
+
+ */
+  XPF = 953;
+
+/**
+ * Platinum
+ *
+ * * ZZ10_Platinum
+
+ */
+  XPT = 962;
+
+/**
+ * Sucre
+ *
+ * * SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS "SUCRE"
+
+ */
+  XSU = 994;
+
+/**
+ * Codes specifically reserved for testing purposes
+ *
+ * * ZZ06_Testing_Code
+
+ */
+  XTS = 963;
+
+/**
+ * ADB Unit of Account
+ *
+ * * MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP
+
+ */
+  XUA = 965;
+
+/**
+ * The codes assigned for transactions where no currency is involved
+ *
+ * * ZZ07_No_Currency
+
+ */
+  XXX = 999;
+
+/**
+ * Yemeni Rial
+ *
+ * * YEMEN
+
+ */
+  YER = 886;
+
+/**
+ * Rand
+ *
+ * * LESOTHO
+ * * NAMIBIA
+ * * SOUTH AFRICA
+
+ */
+  ZAR = 710;
+
+/**
+ * Zambian Kwacha
+ *
+ * * ZAMBIA
+
+ */
+  ZMW = 967;
+
+/**
+ * Zimbabwe Dollar
+ *
+ * * ZIMBABWE
+
+ */
+  ZWL = 932;
+
+}
