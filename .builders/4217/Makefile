@@ -1,6 +1,6 @@
-build: ../../4217/4217.proto
+build: ../../protobuf/4217/4217.proto
 
-../../4217/4217.proto:
+../../protobuf/4217/4217.proto:
 	@mkdir -p .tmp
 	cd .tmp && wget -N http://www.currency-iso.org/dam/downloads/lists/list_one.xml
 	cat .tmp/list_one.xml | xml2json > .tmp/4217.json
