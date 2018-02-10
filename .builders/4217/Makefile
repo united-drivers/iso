@@ -1,4 +1,8 @@
-build: ../../protobuf/4217/4217.proto
+build: ../../protobuf/4217/4217.proto ../../go/4217/4217.pb.go
+
+../../go/4217/4217.pb.go:
+	@mkdir -p ../../go/4217
+	docker run -v "$(PWD)/../..:$(PWD)/../.." -w "$(PWD)/../../protobuf/4217" znly/protoc -I. --go_out=../../go/4217 4217.proto
 
 ../../protobuf/4217/4217.proto:
 	@mkdir -p .tmp
@@ -8,4 +12,4 @@ build: ../../protobuf/4217/4217.proto
 	mv $@.tmp $@
 
 clean:
-	rm -rf .tmp ../../protobuf/4217/4217.proto
+	rm -rf .tmp ../../protobuf/4217/4217.proto ../../go/4217/4217.pb.go
